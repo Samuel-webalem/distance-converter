@@ -1,0 +1,52 @@
+h4{
+ text-align: center;
+ color: rgb(75, 75, 201);
+}
+#one{
+    background-color: rgba(8, 8, 8, 0.878);
+    padding-top: 50px;
+    padding-bottom: 10px;
+    text-align: center;
+    border-radius: 10px;
+    justify-content: center;
+    color: wheat;
+    margin: 50px;
+}
+#kilometer{
+    text-align: center;
+    align-items: center;
+    border: 0px;
+    border-radius: 20px;
+    padding: 20px;
+    background-color: rgb(156, 216, 216);
+    margin-bottom: 30px;
+    color: rgb(74, 59, 136);
+    
+}
+#convert{
+  border-radius: 10px;
+  border: 0ch;
+  padding-left: 20px;
+  display: flex;
+  justify-content: center;
+  margin: auto;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-right: 20px;
+  background-color: rgb(58, 155, 55);
+}
+#two{
+    background-color: rgba(79, 84, 68, 0.887);
+    padding: 30px;
+    text-align: center;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top:50px ;
+    margin-bottom: 0px;
+}
+#convert:hover{
+    background-color: rgb(119, 34, 34);
+}
+#kilometer:hover{
+    background-color: white;
+}
